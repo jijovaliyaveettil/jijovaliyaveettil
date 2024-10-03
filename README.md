@@ -1,11 +1,31 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jijo Francis Valiyaveettil
 ==================================================================================================================================================
 
-I've been learning for more than 5 years. I started out with Java and worked as an ABAP on HANA developer for 3 years. Now i am currently learning and improving my Python and Javascript skills to become a Full Stack Developer. I also enjoy a bit of machine learning and automation projects.
+👋 Hi there! I’m a software developer with over 5 years of experience. I started my journey with Java and spent 3 years working as an ABAP on HANA developer, where I honed my backend development skills as well as my cloud skills in AWS. Currently, I’m focused on mastering Python and JavaScript as I transition into Full Stack Development.
 
-* 🌍  I'm based in Ilmenau, Germany
+I’m passionate about learning and applying new technologies, and I’ve recently been diving into machine learning and automation projects. I enjoy solving challenging problems, whether it’s through backend optimization or exploring the capabilities of AI.
+
+💼 Experience:
+
+	•	3 years as an ABAP on HANA developer
+	•	Backend engineering expertise with Java and Python
+	•	Hands-on with frontend technologies like JavaScript
+
+🌱 Currently improving:
+
+	•	Full Stack development with Python (Django/Flask), Go and JavaScript (React)
+	•	Machine Learning and data-driven projects
+
+🚀 What excites me:
+
+	•	Full Stack projects from scratch
+	•	Building efficient, automated solutions
+	•	Exploring the intersection of AI and web development
+
+Feel free to explore my projects and connect!
+
+* 🌍  I'm currently based in Germany
 * ✉️  You can contact me at [v.francisjijo@gmail.com](mailto:v.francisjijo@gmail.com)
-* 🧠  I'm learning Python and Javascript
 
 ### Skills
 
