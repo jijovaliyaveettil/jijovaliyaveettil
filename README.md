@@ -15,7 +15,8 @@ I’m passionate about learning and applying new technologies, and I’ve recent
 
 ## 🔭 Current Projects
 - Knee Osteoarthritis Classification using Siamese Neural Networks
-- Conversational AI Agent with Langchain and AWS
+- CRM tool using Django
+- Neural Network with visualization
   
 ## Badges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijovaliyaveettil&layout=compact)
