@@ -14,8 +14,7 @@ I’m passionate about learning and applying new technologies, and I’ve recent
 - DevOps: Docker, Kubernetes, CI/CD
 
 ## 🔭 Current Projects
-- Knee Osteoarthritis Classification using Siamese Neural Networks
-- CRM tool using Django
+- Chat System using Go
 - Neural Network with visualization
   
 ## Badges
