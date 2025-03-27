@@ -14,10 +14,10 @@ Master’s student in Germany | Full Stack Developer & ML enthusiast passionate 
 - Real-time chat system in Go  
 - Language Learning app 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijovaliyaveettil&layout=compact)  
 
 ## 📫 Reach Out  
-- **LinkedIn**: [username](https://www.linkedin.com/in/jijovaliyaveettil)  
+- **LinkedIn**: [Jijo Valiyaveettil](https://www.linkedin.com/in/jijovaliyaveettil)  
 - **Email**: v.francisjijo@gmail.com  
 
 Open to collaborations & discussions! 👋  
