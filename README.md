@@ -1,7 +1,9 @@
-# Hello, I'm Jijo Valiyaveettil 👋  
+# Hello, I'm Jijo 👋  
 
 ## 🚀 About Me  
-Master’s student in Germany | Full Stack Developer & ML enthusiast passionate about cloud tech. I thrive on learning and contributing to open-source projects, currently diving deep into machine learning, automation, and backend optimization. Love tackling challenges through AI-driven solutions.  
+Master’s student in Germany | Full Stack Developer & ML enthusiast. 
+
+I thrive on learning and contributing to open-source projects, currently diving deep into machine learning, automation, and backend optimization. Love tackling challenges through AI-driven solutions.  
 
 ## 🛠 Skills  
 - **Languages**: Python, Go, JavaScript  
@@ -14,7 +16,7 @@ Master’s student in Germany | Full Stack Developer & ML enthusiast passionate 
 - Real-time chat system in Go  
 - Language Learning app 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijovaliyaveettil&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojozizo&layout=compact)  
 
 ## 📫 Reach Out  
 - **LinkedIn**: [Jijo Valiyaveettil](https://www.linkedin.com/in/jijovaliyaveettil)  
